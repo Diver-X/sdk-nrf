@@ -1,4 +1,4 @@
-# nRF Connect SDK fork
+nRF Connect SDK fork
 公式ライブラリの一部を改造しているため､社内用フォークを作成
 
 
