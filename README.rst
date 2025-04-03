@@ -1,4 +1,9 @@
-.. raw:: html
+# nRF Connect SDK fork
+公式ライブラリの一部を改造しているため､社内用フォークを作成
+
+
+nRF Connect SDK: sdk-nrf
+########################
 
    <a href="https://www.zephyrproject.org">
      <p align="center">
